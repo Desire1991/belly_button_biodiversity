@@ -1,0 +1,14 @@
+body {
+    color: black;
+    background-color: black;
+    body {
+        color: black;
+        background-color: black;
+    }
+    .jumbotron {
+        background-image: url("../images/pexels-karolina-grabowska-4226769.jpg");
+        background-size: 100% 100%;
+        text-align: center;
+        color: black;
+    }
+    
